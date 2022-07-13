@@ -3,6 +3,11 @@
 
 void Display( int iNo )
 {
+                if( iNo < 0 )
+                {
+                            iNo = 0 - iNo;
+                }
+
                 switch( iNo )
                 {
                             case 0:
