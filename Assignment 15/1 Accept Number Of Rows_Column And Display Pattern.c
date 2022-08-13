@@ -1,4 +1,4 @@
-/// Input  : iRow = 4 iCol = 3 
+/// Input  : iRow = 4 iCol = 3 
 /// Output : * * * 
 ///          * * * 
 ///          * * * 
