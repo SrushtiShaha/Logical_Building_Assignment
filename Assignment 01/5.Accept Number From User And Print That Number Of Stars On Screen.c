@@ -5,7 +5,7 @@ void Accept(int iNo)
 {
         int iCnt = 0;
         
-        for( iNo = 5; iNo > iCnt; iNo-- )
+        for( iCnt = 1; iNo >= iCnt; iCnt++ )
         {
                 printf(" * ");
         }
