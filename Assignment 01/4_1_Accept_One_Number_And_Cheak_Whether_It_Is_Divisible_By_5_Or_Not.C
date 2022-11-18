@@ -1,12 +1,10 @@
-///*****************************Program Not Completed*********************************
-
 #include<stdio.h>
 #include<conio.h>
 
 typedef int BOOL;
 
-#define TRUE 1;
-#define FALSE 0;
+#define TRUE 1
+#define FALSE 0
 
 int Cheak( int iNo )
 {
@@ -32,12 +30,13 @@ int main()
 
                 if( bRet == TRUE )
                 {
-                                printf("\n Number Is Divisible By 5.");
+                                printf("\n Number Is Divisible By 5.\n");
                 }
                 else
                 {
-                                printf("\n Number Is Not Divisible By 5.");
+                                printf("\n Number Is Not Divisible By 5.\n");
                 }
 
+                getch();
                 return 0;
 }
