@@ -34,5 +34,6 @@ int main()
                                 printf("\n The Given Number %d Is Not Divisible By 5.\n",iValue);
                 }
 
+                getch();
                 return 0;
 }
