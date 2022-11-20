@@ -21,6 +21,7 @@ int main()
 
                 Display(iValue);
 
+                getch();
                 return 0;
 }
 
