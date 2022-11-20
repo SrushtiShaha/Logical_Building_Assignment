@@ -20,5 +20,7 @@ int main()
                 scanf("%d",&iValue);
 
                 Display( iValue );
+                
+                getch();
                 return 0;
 }
