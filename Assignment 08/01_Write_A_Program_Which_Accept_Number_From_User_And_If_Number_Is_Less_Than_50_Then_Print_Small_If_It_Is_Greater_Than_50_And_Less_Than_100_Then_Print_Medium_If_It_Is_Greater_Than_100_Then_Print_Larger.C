@@ -1,4 +1,4 @@
-/// 1. Write A Program Which Accept Number From User And If Number Is Less Than 50 Then Print Small, If It Is Greater Than 50 And Less Than 100 Then Print Medium, If It Is Greater Than 100 Then Print Larger.C
+/// 1. Write A Program Which Accept Number From User And If Number Is Less Than 50 Then Print Small, If It Is Greater Than 50 And Less Than 100 Then Print Medium, If It Is Greater Than 100 Then Print Larger.
 
 #include<stdio.h>
 #include<conio.h>
