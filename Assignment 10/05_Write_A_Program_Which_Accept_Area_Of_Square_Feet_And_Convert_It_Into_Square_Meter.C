@@ -23,4 +23,7 @@ int main()
                 dRet = SquareMeter( iValue );
 
                 printf("\n Square Meter => %lf \n",dRet);
+                
+                getch();
+                return 0;
 }
