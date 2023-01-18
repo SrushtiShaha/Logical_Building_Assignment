@@ -8,7 +8,7 @@ void Pattern( iNo )
 {           
             while( iNo > 0 )
             {
-                        printf(" %d \t # \t",iNo);
+                        printf(" %d \t # \t ",iNo);
                         
                         iNo--;
             }
