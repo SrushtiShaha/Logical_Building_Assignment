@@ -17,10 +17,9 @@ void Pattern(int iRow, int iCol)
       
       for( i = 1; i <= iRow; i++ )
       {
-            for( j = 1, ch = 'A'; j <= iCol; j++ )
+            for( j = 1, ch = 'A'; j <= iCol; j++, ch++ )
             {
                   printf("\t %c",ch);
-                  ch++;
             }
             
             printf("\n");
