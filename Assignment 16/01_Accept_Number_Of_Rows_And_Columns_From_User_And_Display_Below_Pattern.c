@@ -1,7 +1,7 @@
 // Compiler version gcc  6.3.0
 
 /// Accept_Number_Of_Rows_And_Number_Of_Columns_From_User_And_Display_Below_Pattern. 
-/// Input  : iRow = 4 iCol = 4 
+/// Input  : iRow = 4 iCol = 4
 /// Output : A B C D 
 ///          A B C D 
 ///          A B C D 
@@ -13,6 +13,7 @@
 void Pattern(int iRow, int iCol) 
 { 
       char ch = '\0';
+
       int i = 0, j = 0;
       
       for( i = 1; i <= iRow; i++ )
