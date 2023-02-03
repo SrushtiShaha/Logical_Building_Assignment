@@ -31,7 +31,7 @@ int main()
 {
       int iValue1 = 0, iValue2 = 0; 
       
-      printf("Enter number of rows and columns -> "); 
+      printf("Enter Number Of Rows And Columns -> "); 
       scanf("%d%d",&iValue1,&iValue2); 
       
       Pattern( iValue1, iValue2 ); 
